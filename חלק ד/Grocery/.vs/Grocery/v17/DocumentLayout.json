@@ -1,0 +1,978 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\grocery\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|solutionrelative:grocery\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\grocery\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|solutionrelative:grocery\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\grocery\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|solutionrelative:grocery\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\bll\\supplierbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|solutionrelative:bll\\supplierbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\bll\\orderdetailsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|solutionrelative:bll\\orderdetailsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dal\\iteminorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|solutionrelative:dal\\iteminorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dal\\itemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|solutionrelative:dal\\itemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\bll\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|solutionrelative:bll\\userbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\bll\\supplierandmerchandisebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|solutionrelative:bll\\supplierandmerchandisebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\bll\\merchandisebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|solutionrelative:bll\\merchandisebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\bll\\iteminorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|solutionrelative:bll\\iteminorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\bll\\itembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653E9176-E6BD-4FE3-AF78-19C892FCA982}|BLL\\BLL.csproj|solutionrelative:bll\\itembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\grocery\\controllers\\supplierandmerchandisebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|solutionrelative:grocery\\controllers\\supplierandmerchandisebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\grocery\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|solutionrelative:grocery\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|solutionrelative:dto\\orderdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\grocery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|solutionrelative:grocery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\grocery\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|solutionrelative:grocery\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dal\\orderdetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|solutionrelative:dal\\orderdetaildal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\ibl\\iuserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|solutionrelative:ibl\\iuserbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|solutionrelative:dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\ibl\\iorderdetailbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|solutionrelative:ibl\\iorderdetailbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\idal\\iorderdetailsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|solutionrelative:idal\\iorderdetailsdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\idal\\idal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|solutionrelative:idal\\idal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dbentities\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|solutionrelative:dbentities\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dbentities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|solutionrelative:dbentities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\idal\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|solutionrelative:idal\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\ibl\\ibl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|solutionrelative:ibl\\ibl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dbentities\\models\\supplierandmerchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|solutionrelative:dbentities\\models\\supplierandmerchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dbentities\\models\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|solutionrelative:dbentities\\models\\merchandise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dbentities\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|solutionrelative:dbentities\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dbentities\\models\\iteminorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|solutionrelative:dbentities\\models\\iteminorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dbentities\\contextdir\\d_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|solutionrelative:dbentities\\contextdir\\d_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dto\\iteminorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|solutionrelative:dto\\iteminorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\grocery\\controllers\\merchandisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|solutionrelative:grocery\\controllers\\merchandisecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\idal\\isupplierandmerchandisedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|solutionrelative:idal\\isupplierandmerchandisedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dal\\supplierandmerchandisedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|solutionrelative:dal\\supplierandmerchandisedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\ibl\\isupplierandmerchandisebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|solutionrelative:ibl\\isupplierandmerchandisebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\idal\\isupplierdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|solutionrelative:idal\\isupplierdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dal\\supplierdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|solutionrelative:dal\\supplierdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\ibl\\isupplierbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|solutionrelative:ibl\\isupplierbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\ibl\\imerchandisebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|solutionrelative:ibl\\imerchandisebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dto\\merchandisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|solutionrelative:dto\\merchandisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\grocery\\controllers\\iteminordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|solutionrelative:grocery\\controllers\\iteminordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\idal\\iiteminorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|solutionrelative:idal\\iiteminorderdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\ibl\\iiteminorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|solutionrelative:ibl\\iiteminorderbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dto\\supplierandmerchandisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|solutionrelative:dto\\supplierandmerchandisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\idal\\imerchandisedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|solutionrelative:idal\\imerchandisedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|solutionrelative:dto\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\grocery\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79AE1609-BFC3-4067-B4DA-BF66772BF508}|Grocery\\API.csproj|solutionrelative:grocery\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dal\\merchandisedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20DBDCE3-0FE1-47A7-B0FB-1B87F9491087}|DAL\\DAL.csproj|solutionrelative:dal\\merchandisedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52266666-884B-4BC3-B2DE-97274A2DD52B}|DTO\\DTO.csproj|solutionrelative:dto\\itemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dbentities\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|solutionrelative:dbentities\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\ibl\\iitembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65B61FA-1ECE-4FB8-9B2F-8809A3025BF9}|IBL\\IBL.csproj|solutionrelative:ibl\\iitembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\idal\\iitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1876EFC8-1A1C-4E37-BD7A-29837A673AEA}|IDAL\\IDAL.csproj|solutionrelative:idal\\iitemdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Grocery\\Grocery\\ContextDir\\D_Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|c:\\users\\user\\desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\grocery\\dbentities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFAB4CA8-FC87-4E5D-B742-AE0C9312C813}|DBEntities\\DBEntities.csproj|solutionrelative:dbentities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 296,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplierBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\SupplierBL.cs",
+              "RelativeDocumentMoniker": "BLL\\SupplierBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\SupplierBL.cs",
+              "RelativeToolTip": "BLL\\SupplierBL.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:50:07.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\UserBL.cs",
+              "RelativeDocumentMoniker": "BLL\\UserBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\UserBL.cs",
+              "RelativeToolTip": "BLL\\UserBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:17:36.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ItemDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\ItemDal.cs",
+              "RelativeDocumentMoniker": "DAL\\ItemDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\ItemDal.cs",
+              "RelativeToolTip": "DAL\\ItemDal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBUAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:46:44.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemInOrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\ItemInOrderDal.cs",
+              "RelativeDocumentMoniker": "DAL\\ItemInOrderDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\ItemInOrderDal.cs",
+              "RelativeToolTip": "DAL\\ItemInOrderDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:47:01.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "Grocery\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "Grocery\\Controllers\\SupplierController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T00:10:09.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "Grocery\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "Grocery\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T20:09:19.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Grocery\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Grocery\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAAwEEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:20:08.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SupplierAndmerchandiseBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\SupplierAndmerchandiseBL.cs",
+              "RelativeDocumentMoniker": "BLL\\SupplierAndmerchandiseBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\SupplierAndmerchandiseBL.cs",
+              "RelativeToolTip": "BLL\\SupplierAndmerchandiseBL.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAApwC4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:50:15.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetailsBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\OrderDetailsBL.cs",
+              "RelativeDocumentMoniker": "BLL\\OrderDetailsBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\OrderDetailsBL.cs",
+              "RelativeToolTip": "BLL\\OrderDetailsBL.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAApwDYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:49:47.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MerchandiseBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\MerchandiseBL.cs",
+              "RelativeDocumentMoniker": "BLL\\MerchandiseBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\MerchandiseBL.cs",
+              "RelativeToolTip": "BLL\\MerchandiseBL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:49:30.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemInOrderBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\ItemInOrderBL.cs",
+              "RelativeDocumentMoniker": "BLL\\ItemInOrderBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\ItemInOrderBL.cs",
+              "RelativeToolTip": "BLL\\ItemInOrderBL.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:49:08.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ItemBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\ItemBL.cs",
+              "RelativeDocumentMoniker": "BLL\\ItemBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\BLL\\ItemBL.cs",
+              "RelativeToolTip": "BLL\\ItemBL.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:48:53.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SupplierAndmerchandiseBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\SupplierAndmerchandiseBL.cs",
+              "RelativeDocumentMoniker": "Grocery\\Controllers\\SupplierAndmerchandiseBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\SupplierAndmerchandiseBL.cs",
+              "RelativeToolTip": "Grocery\\Controllers\\SupplierAndmerchandiseBL.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA3wBgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:41:03.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Grocery\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Grocery\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:18:37.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderDetailsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\OrderDetailsDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDetailsDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\OrderDetailsDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDetailsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:31:13.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDAL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IDAL.csproj",
+              "RelativeDocumentMoniker": "IDAL\\IDAL.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IDAL.csproj",
+              "RelativeToolTip": "IDAL\\IDAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-05T22:11:29.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Program.cs",
+              "RelativeDocumentMoniker": "Grocery\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Program.cs",
+              "RelativeToolTip": "Grocery\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:17:47.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Grocery\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Grocery\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T15:24:36.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderDetailDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\OrderDetailDal.cs",
+              "RelativeDocumentMoniker": "DAL\\OrderDetailDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\OrderDetailDal.cs",
+              "RelativeToolTip": "DAL\\OrderDetailDal.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAowEMAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:47:52.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IOrderDetailsDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IOrderDetailsDal.cs",
+              "RelativeDocumentMoniker": "IDAL\\IOrderDetailsDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IOrderDetailsDal.cs",
+              "RelativeToolTip": "IDAL\\IOrderDetailsDal.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAawBAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:44:57.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\UserDal.cs",
+              "RelativeDocumentMoniker": "DAL\\UserDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\UserDal.cs",
+              "RelativeToolTip": "DAL\\UserDal.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAApwBQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:19:10.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IOrderDetailBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IOrderDetailBL.cs",
+              "RelativeDocumentMoniker": "IBL\\IOrderDetailBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IOrderDetailBL.cs",
+              "RelativeToolTip": "IBL\\IOrderDetailBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:20:52.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IUSErBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IUSErBL.cs",
+              "RelativeDocumentMoniker": "IBL\\IUSErBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IUSErBL.cs",
+              "RelativeToolTip": "IBL\\IUSErBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:18:02.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "DBEntities\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "DBEntities\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:28:50.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:31:54.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DBEntities\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\User.cs",
+              "RelativeToolTip": "DBEntities\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:32:03.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SupplierAndmerchandise.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\SupplierAndmerchandise.cs",
+              "RelativeDocumentMoniker": "DBEntities\\Models\\SupplierAndmerchandise.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\SupplierAndmerchandise.cs",
+              "RelativeToolTip": "DBEntities\\Models\\SupplierAndmerchandise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:28:52.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IBL.csproj",
+              "RelativeDocumentMoniker": "IBL\\IBL.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IBL.csproj",
+              "RelativeToolTip": "IBL\\IBL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T08:54:48.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IUserDal.cs",
+              "RelativeDocumentMoniker": "IDAL\\IUserDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IUserDal.cs",
+              "RelativeToolTip": "IDAL\\IUserDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:18:15.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Merchandise.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\Merchandise.cs",
+              "RelativeDocumentMoniker": "DBEntities\\Models\\Merchandise.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\Merchandise.cs",
+              "RelativeToolTip": "DBEntities\\Models\\Merchandise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:28:49.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "DBEntities\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\Supplier.cs",
+              "RelativeToolTip": "DBEntities\\Models\\Supplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:28:51.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ItemInOrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\ItemInOrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ItemInOrderDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\ItemInOrderDTO.cs",
+              "RelativeToolTip": "DTO\\ItemInOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:30:28.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemInOrder.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\ItemInOrder.cs",
+              "RelativeDocumentMoniker": "DBEntities\\Models\\ItemInOrder.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\ItemInOrder.cs",
+              "RelativeToolTip": "DBEntities\\Models\\ItemInOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:28:48.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "D_Context.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\ContextDir\\D_Context.cs",
+              "RelativeDocumentMoniker": "DBEntities\\ContextDir\\D_Context.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\ContextDir\\D_Context.cs",
+              "RelativeToolTip": "DBEntities\\ContextDir\\D_Context.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAuwD4AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:23:19.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MerchandiseController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\MerchandiseController.cs",
+              "RelativeDocumentMoniker": "Grocery\\Controllers\\MerchandiseController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\MerchandiseController.cs",
+              "RelativeToolTip": "Grocery\\Controllers\\MerchandiseController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAADwvx8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:24:45.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ISupplierAndmerchandiseDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\ISupplierAndmerchandiseDal.cs",
+              "RelativeDocumentMoniker": "IDAL\\ISupplierAndmerchandiseDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\ISupplierAndmerchandiseDal.cs",
+              "RelativeToolTip": "IDAL\\ISupplierAndmerchandiseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:44:37.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SupplierAndmerchandiseDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\SupplierAndmerchandiseDal.cs",
+              "RelativeDocumentMoniker": "DAL\\SupplierAndmerchandiseDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\SupplierAndmerchandiseDal.cs",
+              "RelativeToolTip": "DAL\\SupplierAndmerchandiseDal.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:48:34.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ISupplierAndmerchandiseBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\ISupplierAndmerchandiseBL.cs",
+              "RelativeDocumentMoniker": "IBL\\ISupplierAndmerchandiseBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\ISupplierAndmerchandiseBL.cs",
+              "RelativeToolTip": "IBL\\ISupplierAndmerchandiseBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:43:41.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ISupplierDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\ISupplierDal.cs",
+              "RelativeDocumentMoniker": "IDAL\\ISupplierDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\ISupplierDal.cs",
+              "RelativeToolTip": "IDAL\\ISupplierDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:44:26.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T11:19:25.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SupplierDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\SupplierDal.cs",
+              "RelativeDocumentMoniker": "DAL\\SupplierDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\SupplierDal.cs",
+              "RelativeToolTip": "DAL\\SupplierDal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:48:09.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ISupplierBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\ISupplierBL.cs",
+              "RelativeDocumentMoniker": "IBL\\ISupplierBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\ISupplierBL.cs",
+              "RelativeToolTip": "IBL\\ISupplierBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:21:11.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IMerchandiseBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IMerchandiseBL.cs",
+              "RelativeDocumentMoniker": "IBL\\IMerchandiseBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IMerchandiseBL.cs",
+              "RelativeToolTip": "IBL\\IMerchandiseBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:20:14.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MerchandiseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\MerchandiseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\MerchandiseDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\MerchandiseDTO.cs",
+              "RelativeToolTip": "DTO\\MerchandiseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:30:54.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ItemInOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\ItemInOrderController.cs",
+              "RelativeDocumentMoniker": "Grocery\\Controllers\\ItemInOrderController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\ItemInOrderController.cs",
+              "RelativeToolTip": "Grocery\\Controllers\\ItemInOrderController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:40:38.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IItemInOrderDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IItemInOrderDal.cs",
+              "RelativeDocumentMoniker": "IDAL\\IItemInOrderDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IItemInOrderDal.cs",
+              "RelativeToolTip": "IDAL\\IItemInOrderDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:45:48.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "IItemInOrderBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IItemInOrderBL.cs",
+              "RelativeDocumentMoniker": "IBL\\IItemInOrderBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IItemInOrderBL.cs",
+              "RelativeToolTip": "IBL\\IItemInOrderBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:19:51.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SupplierAndmerchandiseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\SupplierAndmerchandiseDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SupplierAndmerchandiseDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\SupplierAndmerchandiseDTO.cs",
+              "RelativeToolTip": "DTO\\SupplierAndmerchandiseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:31:43.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IMerchandiseDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IMerchandiseDal.cs",
+              "RelativeDocumentMoniker": "IDAL\\IMerchandiseDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IMerchandiseDal.cs",
+              "RelativeToolTip": "IDAL\\IMerchandiseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:45:28.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SupplierDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\SupplierDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\SupplierDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\SupplierDTO.cs",
+              "RelativeToolTip": "DTO\\SupplierDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:31:29.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Grocery\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\Grocery\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Grocery\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T19:17:34.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "MerchandiseDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\MerchandiseDal.cs",
+              "RelativeDocumentMoniker": "DAL\\MerchandiseDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DAL\\MerchandiseDal.cs",
+              "RelativeToolTip": "DAL\\MerchandiseDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:47:25.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "DBEntities\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Models\\Item.cs",
+              "RelativeToolTip": "DBEntities\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:28:46.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\ItemDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ItemDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DTO\\ItemDTO.cs",
+              "RelativeToolTip": "DTO\\ItemDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:29:36.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IItemBL.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IItemBL.cs",
+              "RelativeDocumentMoniker": "IBL\\IItemBL.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IBL\\IItemBL.cs",
+              "RelativeToolTip": "IBL\\IItemBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:19:26.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IItemDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IItemDal.cs",
+              "RelativeDocumentMoniker": "IDAL\\IItemDal.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\IDAL\\IItemDal.cs",
+              "RelativeToolTip": "IDAL\\IItemDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T21:46:08.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "D_Context.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Grocery\\Grocery\\ContextDir\\D_Context.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Grocery\\Grocery\\ContextDir\\D_Context.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Grocery\\Grocery\\ContextDir\\D_Context.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05D4\u05D3\u05E1\u05D9\u05DD\\Grocery\\Grocery\\ContextDir\\D_Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:20:56.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Class1.cs",
+              "RelativeDocumentMoniker": "DBEntities\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05D4\u05D2\u05E9\u05D4\\\u05D7\u05DC\u05E7 4\\Grocery\\DBEntities\\Class1.cs",
+              "RelativeToolTip": "DBEntities\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:55:51.26Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 13,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 13,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

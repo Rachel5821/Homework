@@ -1,0 +1,42 @@
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\User\Desktop\הדסים\Grocery\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הדסים\Grocery\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הדסים\Grocery\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\הדסים\Grocery\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הדסים\Grocery\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\User\Desktop\הדסים\Grocery\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\User\Desktop\הדסים\Grocery\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\User\Desktop\הדסים\Grocery\BLL\obj\Debug\net8.0\ref\BLL.dll
+C:\Users\User\Desktop\הדסים\Grocery\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\DBEntities.dll
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\IBL.dll
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\IDAL.dll
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\IBL.pdb
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\IDAL.pdb
+C:\Users\User\Desktop\הדסים\Grocery\BLL\bin\Debug\net8.0\DBEntities.pdb
+C:\Users\User\Desktop\הדסים\Grocery\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\BLL.deps.json
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\BLL.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\BLL.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\DBEntities.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\IBL.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\IDAL.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\IBL.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\IDAL.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\bin\Debug\net8.0\DBEntities.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\obj\Debug\net8.0\BLL.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\obj\Debug\net8.0\refint\BLL.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\obj\Debug\net8.0\BLL.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\BLL\obj\Debug\net8.0\ref\BLL.dll

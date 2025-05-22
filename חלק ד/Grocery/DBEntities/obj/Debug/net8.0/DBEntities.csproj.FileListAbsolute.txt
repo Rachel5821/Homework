@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\bin\Debug\net8.0\DBEntities.deps.json
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\bin\Debug\net8.0\DBEntities.dll
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\bin\Debug\net8.0\DBEntities.pdb
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.AssemblyInfo.cs
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.dll
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\obj\Debug\net8.0\refint\DBEntities.dll
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.pdb
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\obj\Debug\net8.0\ref\DBEntities.dll
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\bin\Debug\net8.0\DBEntities.runtimeconfig.json
+C:\Users\User\Desktop\הדסים\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.genruntimeconfig.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\bin\Debug\net8.0\DBEntities.deps.json
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\bin\Debug\net8.0\DBEntities.runtimeconfig.json
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\bin\Debug\net8.0\DBEntities.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\bin\Debug\net8.0\DBEntities.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.AssemblyInfo.cs
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\obj\Debug\net8.0\refint\DBEntities.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\obj\Debug\net8.0\DBEntities.genruntimeconfig.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DBEntities\obj\Debug\net8.0\ref\DBEntities.dll

@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\הדסים\Grocery\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\User\Desktop\הדסים\Grocery\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\הדסים\Grocery\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\הדסים\Grocery\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הדסים\Grocery\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הדסים\Grocery\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\הדסים\Grocery\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הדסים\Grocery\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\הדסים\Grocery\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\User\Desktop\הדסים\Grocery\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\הדסים\Grocery\DTO\obj\Debug\net8.0\ref\DTO.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\bin\Debug\net8.0\DTO.deps.json
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\obj\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\obj\Debug\net8.0\refint\DTO.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\obj\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\DTO\obj\Debug\net8.0\ref\DTO.dll

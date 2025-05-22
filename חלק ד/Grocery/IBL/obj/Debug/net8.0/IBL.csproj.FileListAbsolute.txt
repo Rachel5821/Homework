@@ -1,0 +1,30 @@
+C:\Users\User\Desktop\הדסים\Grocery\IBL\bin\Debug\net8.0\IBL.deps.json
+C:\Users\User\Desktop\הדסים\Grocery\IBL\bin\Debug\net8.0\IBL.dll
+C:\Users\User\Desktop\הדסים\Grocery\IBL\bin\Debug\net8.0\IBL.pdb
+C:\Users\User\Desktop\הדסים\Grocery\IBL\obj\Debug\net8.0\IBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הדסים\Grocery\IBL\obj\Debug\net8.0\IBL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הדסים\Grocery\IBL\obj\Debug\net8.0\IBL.AssemblyInfo.cs
+C:\Users\User\Desktop\הדסים\Grocery\IBL\obj\Debug\net8.0\IBL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הדסים\Grocery\IBL\obj\Debug\net8.0\IBL.dll
+C:\Users\User\Desktop\הדסים\Grocery\IBL\obj\Debug\net8.0\refint\IBL.dll
+C:\Users\User\Desktop\הדסים\Grocery\IBL\obj\Debug\net8.0\IBL.pdb
+C:\Users\User\Desktop\הדסים\Grocery\IBL\obj\Debug\net8.0\ref\IBL.dll
+C:\Users\User\Desktop\הדסים\Grocery\IBL\obj\Debug\net8.0\IBL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\הדסים\Grocery\IBL\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\הדסים\Grocery\IBL\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\הדסים\Grocery\IBL\obj\Debug\net8.0\IBL.csproj.Up2Date
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\bin\Debug\net8.0\IBL.deps.json
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\bin\Debug\net8.0\IBL.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\bin\Debug\net8.0\IBL.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\bin\Debug\net8.0\DTO.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\bin\Debug\net8.0\DTO.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\obj\Debug\net8.0\IBL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\obj\Debug\net8.0\IBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\obj\Debug\net8.0\IBL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\obj\Debug\net8.0\IBL.AssemblyInfo.cs
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\obj\Debug\net8.0\IBL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\obj\Debug\net8.0\IBL.csproj.Up2Date
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\obj\Debug\net8.0\IBL.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\obj\Debug\net8.0\refint\IBL.dll
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\obj\Debug\net8.0\IBL.pdb
+C:\Users\User\Desktop\הגשה\חלק 4\Grocery\IBL\obj\Debug\net8.0\ref\IBL.dll
